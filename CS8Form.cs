@@ -43,8 +43,7 @@ namespace CS8
                 else
                 {
                     //Create an instance of clsOrder 
-                    clsOrder cobjOrder = new clsOrder
-                        ();
+                    clsOrder cobjOrder = new clsOrder();
 
                     //Calculate Extended Price 
                     cobjOrder.calcExtendedPrice();
@@ -54,11 +53,11 @@ namespace CS8
                     lblExtension.Text = cobjOrder.ExtendedPrice.ToString("C");
                 }//end if-else
 
-                //Create an instance of clsCustomer using the overloaded constructor
+                //Create an instance of clsCustomer
                 clsCustomer cobjCustomer = new clsCustomer(txtName.Text, txtStreet.Text,
                                     txtCity.Text, txtState.Text, txtZip.Text);
 
-                //Build mailing label using the Get methods for Customer.
+                //Build mailing label for Customer.
                 strMailingLabel = cobjCustomer.Name + "\n" +
                                   cobjCustomer.Street + "\n" +
                                   cobjCustomer.City + ", " +
@@ -67,9 +66,7 @@ namespace CS8
                 //Display mailing address
                 lblMailingLabel.Text = strMailingLabel;
 
-                //Shared properties can be accessed using class name
-                //Object names are declared locally in if statement
-                //Test the Get Property methods of ReadOnly Shared properties 
+                 
                 lblTotalCount.Text = clsOrder.TotalCount.ToString("N0");
                 lblTotalPrice.Text = clsOrder.TotalPrice.ToString("C");
             }//end of try
