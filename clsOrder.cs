@@ -19,11 +19,7 @@ namespace CS8
        public static int cintTotalCount;
 
          
-        //declare constructors
-
-        //declare property methods
-
-        //declare read-only properties
+  
        public virtual decimal ExtendedPrice
         {
             get
