@@ -1,0 +1,11 @@
+D:\C #\CS13\CS13\CS13\bin\Debug\CS13.exe.config
+D:\C #\CS13\CS13\CS13\bin\Debug\CS13.exe
+D:\C #\CS13\CS13\CS13\bin\Debug\CS13.pdb
+D:\C #\CS13\CS13\CS13\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\C #\CS13\CS13\CS13\obj\x86\Debug\CS13.frmCS13A.resources
+D:\C #\CS13\CS13\CS13\obj\x86\Debug\CS13.Properties.Resources.resources
+D:\C #\CS13\CS13\CS13\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\C #\CS13\CS13\CS13\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\C #\CS13\CS13\CS13\obj\x86\Debug\CS13.exe
+D:\C #\CS13\CS13\CS13\obj\x86\Debug\CS13.pdb
+D:\C #\CS13\CS13\CS13\obj\x86\Debug\CS13.CS13FormB.resources

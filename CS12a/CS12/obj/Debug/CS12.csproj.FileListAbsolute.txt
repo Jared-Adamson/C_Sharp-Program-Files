@@ -1,0 +1,9 @@
+D:\C #\CS12a\CS12\bin\Debug\CS12.exe
+D:\C #\CS12a\CS12\bin\Debug\CS12.pdb
+D:\C #\CS12a\CS12\obj\Debug\ResolveAssemblyReference.cache
+D:\C #\CS12a\CS12\obj\Debug\CS12.frmCS12.resources
+D:\C #\CS12a\CS12\obj\Debug\CS12.Properties.Resources.resources
+D:\C #\CS12a\CS12\obj\Debug\ResGen.read.1.tlog
+D:\C #\CS12a\CS12\obj\Debug\ResGen.write.1.tlog
+D:\C #\CS12a\CS12\obj\Debug\CS12.exe
+D:\C #\CS12a\CS12\obj\Debug\CS12.pdb
