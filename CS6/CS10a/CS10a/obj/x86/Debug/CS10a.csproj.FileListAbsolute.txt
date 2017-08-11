@@ -1,0 +1,10 @@
+D:\C #\CS6\CS10a\CS10a\bin\Debug\CS10a.exe
+D:\C #\CS6\CS10a\CS10a\bin\Debug\CS10a.pdb
+D:\C #\CS6\CS10a\CS10a\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\C #\CS6\CS10a\CS10a\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\C #\CS6\CS10a\CS10a\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\C #\CS6\CS10a\CS10a\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\C #\CS6\CS10a\CS10a\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\C #\CS6\CS10a\CS10a\obj\x86\Debug\CS10a.exe
+D:\C #\CS6\CS10a\CS10a\obj\x86\Debug\CS10a.pdb
+D:\C #\CS6\CS10a\CS10a\obj\x86\Debug\WindowsFormsApplication1.aboutForm.resources
